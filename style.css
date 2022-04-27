@@ -1,0 +1,75 @@
+
+
+/*--------------------*/
+/* ERROR PAGE */
+/*--------------------*/
+
+
+#error{
+	display: inline;
+	float: left;
+	width: 100%;
+}
+
+
+.error-area {
+  display: inline;
+  float: left;
+  padding: 150px 0;
+  text-align: center;
+  width: 100%;
+}
+
+
+.error-group{
+	display: inline;
+	float: left;
+	width: 100%;
+}
+
+
+.error-group h1{
+	color: #979797;
+	font-size: 80px;
+	margin-bottom: 25px;
+}
+
+
+.error-group h1 span {
+  border: 1px solid #cccccc;
+  display: inline-block;
+  margin-left: 5px;
+  overflow: hidden;
+  padding: 2px;
+}
+
+
+.error-group h1 span strong {
+  border: 1px solid #cccccc;
+  display: inline-block;
+  font-weight: normal;
+  padding:  15px 20px;
+}
+
+
+.error-group h2 {
+  color: #979797;
+  font-size: 60px;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 55px;
+}
+
+
+.error-group h2 span{
+	display: block;
+	font-size: 30px;
+}
+
+
+.home-btn a{
+	text-decoration: none;
+	outline: none;
+}
+
+
